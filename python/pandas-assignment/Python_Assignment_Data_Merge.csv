@@ -1,0 +1,5 @@
+F_Q5a_FamilyHealthy_Mobile,F_Q5a_FamilyFinancialProgress_Mobile,F_Q5a_FamilyHomeEnvironmentGood_Mobile,F_Q5a_ChildrenStudyingWell_Mobile,F_Q5a_ChildrenHappy_Mobile,F_Q5a_ChildrenSupportingFamily_Mobile,F_Q5a_ChildrenMigratingAbroad_Mobile,F_Q5a_Other_Mobile,F_Q5a_HappinessFamilyReason_P1_Laptop,F_Q5a_HappinessFamilyReason_P2_Laptop,F_Q5a_HappinessFamilyReason_P3_Laptop
+1,2,3,AMS,AMS,AMS,AMS,AMS,AMS,AMS,AMS
+1,2,3,AMS,AMS,AMS,AMS,AMS,AMS,AMS,AMS
+AMS,AMS,AMS,AMS,AMS,AMS,AMS,AMS,FamilyHealthy,FamilyHomeEnvironmentGood,ChildrenSupportingFamily
+AMS,AMS,AMS,AMS,AMS,AMS,AMS,AMS,FamilyHealthy,FamilyFinancialProgress,FamilyHomeEnvironmentGood
